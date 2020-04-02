@@ -1,0 +1,68 @@
+{
+    "Images": [
+        "jpg",
+        "png",
+        "bmp",
+        "gif",
+        "tif",
+        "cdr",
+        "svg",
+        "jpeg"
+    ],
+    "Text": [
+            "doc",
+            "docx",
+            "txt",
+            "pdf",
+            "txt",
+            "logs"
+    ],
+    "Tables": [
+            "xls",
+            "xlsx"
+    ],
+    "Slides": [
+            "pptx",
+            "ppt"
+    ],
+
+    "Archives": [
+        "zip",
+        "rar",
+        "7z",
+        "gzip",
+        "tar",
+        "gz"
+    ],
+    "Audios": [
+        "mp3",
+        "waw",
+        "midi",
+        "aac"
+    ],
+    "Videos": [
+        "mp4",
+        "avi",
+        "mkv",
+        "wmv",
+        "flv",
+        "mpeg"
+    ],
+    "Torrents": [
+        "torrent"
+    ],
+    "Programming": [
+        "cpp",
+        "py",
+        "cpy",
+        "jar"
+    ],
+    "Executables": [
+        "exe"
+    ],
+    "Installers": [
+        "msi"
+    ],
+    "Folders":[],
+    "Other":[]
+}
