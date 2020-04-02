@@ -10,3 +10,5 @@ For ex, to add support for sorting Blender files, add the following lines to the
 ```json
 "Blender":['blend'],
 ```
+
+Sortify is licensed under the GNU Affero General Public License v3.0
